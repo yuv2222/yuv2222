@@ -2,11 +2,11 @@
 
 I'm a passionate developer and aspiring **AI Architect** with a deep interest in:
 
-🤖 Artificial Intelligence & Machine Learning<br><br>
-🧠 Predictive Intuition Modeling<br>  
-🧰 Data Engineering & Scalable Systems<br>  
-📱 Android App Development (Jetpack Compose + Kotlin)<br>  
-🌐 Web Development (HTML/CSS/JavaScript)<br>
+🤖 Artificial Intelligence & Machine Learning
+🧠 Predictive Intuition Modeling 
+🧰 Data Engineering & Scalable Systems  
+📱 Android App Development (Jetpack Compose + Kotlin)  
+🌐 Web Development (HTML/CSS/JavaScript)
 
 ---
 
