@@ -14,10 +14,10 @@ I'm a passionate developer and aspiring **AI Architect** with a deep interest in
 
 ## 🌐 Socials
 
-<a href="https://linkedin.com/in/@jacobkirbyarchitect">
+<a href="https://www.linkedin.com/in/jacobkirbyarchitect/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
-<a href="https://codepen.io/@yuv2222">
+<a href="https://codepen.io/yuv2222">
   <img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" />
 </a>
 
