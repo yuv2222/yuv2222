@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-<div align="center">
+<div align="left">
 
 I'm a passionate developer and aspiring **AI Architect** with a deep interest in
 
